@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BIN</string>
+    <string name="instructions">Enter the first digits of a card number (BIN/IIN)</string>
+    <string name="card_data">Card info:</string>
+</resources>
